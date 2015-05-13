@@ -1,0 +1,10 @@
+target/
+target-eclipse/
+test/
+.settings/
+.idea/
+.classpath
+.project
+application.properties
+workspace.xml
+work/
